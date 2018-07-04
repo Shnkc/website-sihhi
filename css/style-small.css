@@ -63,9 +63,15 @@
 		padding: 4em 0em 4em;
 	}
 
-		#footer .copyright li {
-			border-left: 0;
-			margin-left: 0;
-			padding-left: 0;
-			display: block;
-		}
+	#footer .mname {
+		font-size: 2em;
+		margin-bottom: 0.5em;
+	}
+
+
+	#footer .copyright li {
+		border-left: 0;
+		margin-left: 0;
+		padding-left: 0;
+		display: block;
+	}
